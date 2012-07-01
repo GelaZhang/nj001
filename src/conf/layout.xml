@@ -1,0 +1,30 @@
+<layout version="1.0.0">
+	<frame left="0" top="0" right="800" bottom="480"></frame>
+	<logo left="10" top="10" right="790" bottom="38">
+		<font size="29" r="0" g="0" b="0"></font>
+	</logo>
+	<!-- 默认字体-->
+	<font size="18" r="0" g="0" b="0"></font>
+	<greetings left="20" top="440" right="790" bottom="475" word_cnt="30">
+		<font size="20" r="0" g="0" b="0"></font>
+	</greetings>
+	<page>
+		<card_id left="130" top="140" right="200" bottom="200"></card_id>
+		<name left="445" top="140" right="565" bottom="200"></name>
+		<power left="130" top="210" right="200" bottom="270"></power>
+		<job left="445" top="210" right="565" bottom="270"></job>
+		<id left="130" top="280" right="565" bottom="340"></id>
+		<check_time left="130" top="341" right="565" bottom="401"></check_time>
+		<picture left="605" top="130" right="775" bottom="320"></picture>
+	</page>
+	<page>
+		<total_cnt  left="160" top="85" right="210" bottom="110"></total_cnt>
+		<time  left="470" top="85" right="780" bottom="110"></time>
+		<line_cnt>6</line_cnt>
+		<number left="30" top="168" right="85" bottom="210"></number>
+		<position  left="123" top="168" right="380" bottom="210"></position>
+		<region  left="381" top="168" right="705" bottom="210"></region>
+		<cnt left="706" top="168" right="770" bottom="210"></cnt>
+		
+	</page>
+</layout>

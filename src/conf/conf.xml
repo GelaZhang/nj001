@@ -1,0 +1,22 @@
+<terminal>
+	<version>1.0.0</version>
+	<company>XX煤业有限公司</company>
+	<res_dir>/ResidentFlash/CounterView/res</res_dir>
+	<picture>/ResidentFlash/CounterView/picture</picture>
+	<!-- ACNet-600的IP-->
+	<server_ip>192.168.1.100</server_ip>
+	<!-- ACNet-600的端口-->
+	<port>8400</port>
+	<!-- 读卡器连接的串口号，1表示串口1-->
+	<com>1</com>
+	<!-- 读卡器的波特率-->
+	<baud_rate>9600</baud_rate>
+	<!--默认祝福语-->
+	<default_greeting>一切顺利</default_greeting>
+	<!-- 显示终端的设备号，即设备地址 这里是10进制-->
+	<address>23</address>
+	<!-- 显示切换周期，即检卡信息显示后多少秒开始显示非检卡信息，以及循环显示非检卡信息切换的时间。单位为秒-->
+	<shift_frequency>5</shift_frequency>
+	
+	
+</terminal>
